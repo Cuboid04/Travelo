@@ -16,3 +16,6 @@ function start(){
 function index(){
     window.location = "start.html";
 }
+function openace(){
+    window.location = "openace.html"
+}

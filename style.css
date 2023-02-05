@@ -22,7 +22,7 @@ body{
     margin-right:10%;
 }
 #title_note, #title{
-    font-family:cursive
+    font-family:cursive;
 }
 .icons{
     width:150px;
@@ -82,4 +82,18 @@ body{
 }
 #holder_paragraph{
     font-size:22px;
+}
+#aceopenerimg{
+    width:30px;
+    height:30px;
+    border:2px solid black;
+    border-radius:50%; 
+}
+#aceopener{
+    font-size:18px;
+    background: linear-gradient(to left, pink, rgb(186, 217, 49));
+    float:top;
+    text-align:center;
+    font-weight:bold;
+
 }
