@@ -38,7 +38,7 @@ body{
 }
 .copy_right_footer{
     bottom: 0;
-    background-color:cornsilk;
+    background-color:rgb(240, 233, 207);
     color:black;
     width:100%;
     height:50px;
@@ -70,30 +70,22 @@ body{
     border-radius:15px;
 }
 #start_holder{
-    border:1px solid black;
-    border-radius:20%;
-    background-color:cornflowerblue;
+    border:4px solid black;
+    border-radius:10%;
+    background-color:rgb(171, 95, 192);
+    color: white;
+    width:30%;
+    height:30%;
 }
 .starters{
-    background-color:darksalmon;
-    color:black;
+    background: linear-gradient(to right, black, gray);
+    color:rgb(255, 255, 255);
     border: 2px solid black;
     font-size:20px;
 }
 #holder_paragraph{
     font-size:22px;
 }
-#aceopenerimg{
-    width:30px;
-    height:30px;
-    border:2px solid black;
-    border-radius:50%; 
-}
-#aceopener{
-    font-size:18px;
-    background: linear-gradient(to left, pink, rgb(186, 217, 49));
-    float:top;
-    text-align:center;
-    font-weight:bold;
-
+#small_text{
+    font-size:15px;
 }
